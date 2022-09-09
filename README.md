@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajan_sah
-- 👀 I’m interested in Programming and coding 
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in coding and problem solving(Data structure).
+- 🌱 I’m currently learning Machine Learning and want to enhance my technical skills.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rajanrajan.rs998@gmail.com 
 
